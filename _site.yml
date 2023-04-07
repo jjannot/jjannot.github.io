@@ -3,7 +3,7 @@ title: "Jason E. Jannot"
 #theme: postcards.css
 description: |
   The personal website of Jason E. Jannot
-output_dir: "_site"
+output_dir: "."
 base_url: https://jjannot.github.io
 navbar:
   right:
