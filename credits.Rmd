@@ -1,0 +1,26 @@
+---
+title: "Credits"
+image: images/Thank-you-word-cloud.jpg 
+base_url: https://jjannot.github.io
+preview: "images/Thank-you-word-cloud.jpg"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+<!-- title = 'Thank-you-word-cloud_Ashashyou_Wikipedia_CCBY-SA4.0' -->
+The main inspiration for this website comes from [John Paul Helveston](https://www.jhelvy.com/). Not only did John's site come in very handy as a reasonable template for this site; John also provides some really nifty `r icon_link( icon = "fab fa-r-project", text = "functions", url = "https://github.com/jhelvy/jhelvy.com")` that weave together R, CSS, and HTML, [useful tips](https://www.jhelvy.com/posts/2021-03-25-customizing-distill-with-htmltools-and-css/) on how to use them and is generous enough to share them under CC BY-SA 4.0.
+
+Other major sources of inspiration for my site include the websites of:</br>
+    - [Eric J. Ward](https://ericward-noaa.github.io/)</br>
+    - [Emily Markowitz](https://github.com/EmilyMarkowitz-NOAA/template_website_cv)</br>
+    - [The Distillery](https://distillery.rbind.io/index.html)</br>
+    </br>
+Other sources of information and inspiration surrounding the use of `r make_icon( icon = "fab fa-r-project")`, Rmarkdown and `r make_icon(icon = "fab fa-github")`, include:</br>
+    - [Julia S. Lowndes](https://jules32.github.io/)    
+    - [Eli E. Holmes](https://eeholmes.github.io/)
+
+And, I would be remiss not to mention the *distill* package for R:</br>
+
+Dervieux C, Allaire J, Iannone R, Presmanes Hill A, Xie Y (2022). _distill: 'R Markdown'
+  Format for Scientific and Technical Writing_. R package version 1.5,
+  https://CRAN.R-project.org/package=distill

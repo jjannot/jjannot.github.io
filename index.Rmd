@@ -1,15 +1,61 @@
 ---
-title: "Jason E. Jannot"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: 'Jason E. Jannot'
+image: images/JEJ.jpg
+links:
+  - label: <i class="fab fa-linkedin"></i> LinkedIn
+    url: "https://www.linkedin.com/in/jason-jannot-ph-d-846b0730"
+  - label: <i class="ai ai-google-scholar"></i> Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=uOjMofAAAAAJ"
+  - label: <i class="fab fa-github fa-lg"></i> GitHub
+    url: "https://github.com/jjannot-NOAA"
+  - label: <i class="fas fa-paper-plane"></i> Email Me
+    url: "mailto:jason.jannot@noaa.gov"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
+source(file.path("R", "functions.R"))
 ```
 
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
+<!-- <div class = "row"> -->
+<!-- <div class = "col-md-7"> -->
+
+<!-- <br> -->
+
+<div>
+  <h3><b>Supervisory Research Biologist</b></h3>
+  <p><i>NOAA Fisheries<br>
+  Alaska Fisheries Science Center<br>
+  Fisheries Monitoring and Analysis<br>
+  Analytical Services Program Manager<br>
+  Seattle, WA, USA</i></p>
+</div>
+
+<!-- </div> -->
+
+<div class = "col-md-4">
+
+
+</div>
+
+<div class = "col-md-1">
+
+</div>
+<!-- </div> -->
+
+<!-- <br> -->
+
+ <!-- class="top-right" style="float: right; margin-right: 120px; color:white;" -->
+<!-- <font size="-1"> </font>-->

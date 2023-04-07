@@ -1,10 +1,20 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About me"
+image: images/JEJatBeanPod.jpg
+base_url: https://jjannot.github.io
+preview: images/JEJatBeanPod.jpg
+output:
+  postcards::trestles
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+source(file.path("R", "functions.R"))
 ```
 
+I'm a research biologist and data scientist (`r make_icon(icon = "fab fa-r-project")`) at the [Alaska Fisheries Science Center](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center) in the [Fishery Monitoring and Analysis Division (FMA)](https://www.fisheries.noaa.gov/about/fisheries-monitoring-and-analysis). The focus of my work since 2010 has been on marine species interactions with commercial fishing vessels, a.k.a., [bycatch](https://www.fisheries.noaa.gov/topic/bycatch). I currently am the Program lead for the FMA Analytical Services Program.
+
+In my spare time, I am also an avid cyclist and banjo player.
+
+Random Fact About Me: I spent a whole summer living in [Beanpod Cabin](https://www.rmbl.org/field-station-info/housing/beanpod-cabin/) (built ca. 1929).

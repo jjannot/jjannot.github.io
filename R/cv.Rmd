@@ -1,0 +1,26 @@
+---
+title: "CV"
+author: "Jason E. Jannot"
+# output:
+#   html_document: default
+#   pdf_document:
+#     latex_engine: pdflatex
+#     template: svm-latex-cv.tex
+#   word_document: default
+# email: jason.jannot@noaa.gov
+# fontawesome: no
+# fontfamily: mathpazo
+# fontfamilyoptions: sc, osf
+# fontsize: 11pt
+# geometry: margin=1in
+# jobtitle: Research Biologist
+# keywords: R Markdown, academic CV, template
+# linkcolor: blue
+# phone: 206-302-1755
+# address: Northwest Fisheries Science Center · 2725 Montlake Blvd E · Seattle, WA
+# updated: no
+# urlcolor: blue
+# web: jjannot.github.io
+---
+
+my CV

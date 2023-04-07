@@ -1,0 +1,106 @@
+---
+title: "Publications"
+image: images/Bertin_École_des_arts_et_métiers_mise_à_la_portée_de_la_jeunesse_tome_2_1813__gravure_p57.png
+base_url: https://jjannot.github.io
+preview: images/JEJ.jpg
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source(file.path("R", "functions.R"))
+```
+<center>
+`r gscholar_stats("https://scholar.google.com/citations?hl=en&user=uOjMofAAAAAJ")`
+</center>
+
+`r aside_center("Source: Google Scholar")`
+
+<center>
+```{r, echo=FALSE}
+icon_link(
+    icon = "ai ai-google-scholar",
+    text = " Google Scholar  ",
+    url  = "https://scholar.google.com/citations?hl=en&user=uOjMofAAAAAJ"
+)
+
+icon_link(
+    icon = "ai ai-orcid",
+    text = " ORCID",
+    url  = "https://orcid.org/0000-0002-9231-1337"
+)
+
+```
+</center>
+</br>
+<h3> Journal Articles</h3> (peer-reviewed)
+
+>25. Good, T, **JE Jannot**, KA Somers, EJ Ward. 2022. Using Bayesian time series models to estimate bycatch of an endangered albatross. *Fisheries Research* [link](https://www.sciencedirect.com/science/article/abs/pii/S0165783622002697)
+
+>24. **Jannot, JE**, EJ Ward, KA Somers, BE Feist, TP Good, D Lawson, JV Carretta. 2021. Bayesian time-series analyses for estimating marine mammal bycatch: humpback whale entanglements in U.S. west coast fisheries. Special invited issue of *Frontiers in Marine Science: Assessment Approaches to Support Bycatch Management for Marine Mammals*, (eds., T Francis, J Moore, AE Punt, R Reeves). [link](https://www.frontiersin.org/articles/10.3389/fmars.2021.775187/full)
+
+>23. Pons, M, D Ovando, S Andraka, S Brodie, A Domingo, M Fitchett, R Forselledo, M Hall, EL Hazen, **JE Jannot**, *et al*. 2021. Tradeoffs between bycatch and target catches in static versus dynamic fishery closures. *Proceedings of the National Academy of Sciences* [link](https://doi.org/10.1073/pnas.2114508119)
+
+>22. **Jannot, JE**, R Bjorkland, KA Somers, T Mitchell, VJ Tuttle, J McVeigh. 2021. Elasmobranch bycatch in US West Coast Fisheries. *Endangered Species Research* [link](https://www.int-res.com/prepress/n01121.html)
+
+>21. Stock, BC, EJ Ward, T Eguchi, **JE Jannot**, JT Thorson, BE Feist, BX Semmens. 2020. Comparing predictions of fisheries bycatch using multiple spatiotemporal species distribution frameworks. *Canadian Journal of Fisheries and Aquatic Sciences* [link](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2018-0281)
+
+>20. Barnett, LAK, EJ Ward, **JE Jannot**, AO Shelton. 2019. Dynamic spatial heterogeneity reveals interdependence of marine faunal density and fishery removals. *Ecological Indicators* [link](https://doi.org/10.1016/j.ecolind.2019.105585)
+
+>19. Stock, BC, EJ Ward, JT Thorson, **JE Jannot**, BX Semmens. 2018. The utility of spatial model-based estimators of unobserved bycatch. *ICES Journal of Marine Science* [link](https://doi.org/10.1093/icesjms/fsy153)
+
+>18. Gladics, AJ, EF Melvin, RM Suryan, TP Good, **JE Jannot**, TJ Guy. 2017.  Fishery-specific solutions to seabird bycatch in the U.S. West Coast sablefish fishery. *Fisheries Research* [link](https://www.sciencedirect.com/science/article/pii/S0165783617302291)
+
+>17. Thorson, JT, **JE Jannot**, K Somers. 2016. Using spatio-temporal models of population growth and movement to monitor overlap between human impacts and fish populations. *Journal of Applied Ecology* [link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12664)
+
+>16. Bjorkland, R, DC Dunn, M McClure, **J Jannot**, MA Bellman, M Gleason, K Schiffers. 2015.  Spatiotemporal patterns of rockfish bycatch in US west coast groundfish fisheries: opportunities for reducing incidental catch of depleted species. *Canadian Journal of Fisheries and Aquatic Sciences* [link](https://cdnsciencepub.com/doi/10.1139/f01-074)
+
+>15. Ward, E., **JE Jannot**, YW Lee, K Ono, AO Shelton, JT Thorson. 2015. Using spatio-temporal species distribution models to identify temporally evolving hotspots of species co-occurrence. *Ecological Applications* [link](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/15-0051.1)
+
+>14. **Jannot, JE** and D Holland. 2013. Identifying ecological and fishing drivers of bycatch in a U.S. groundfish fishery. *Ecological Applications* [link](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/12-2225.1)
+
+>13. Holland, D and **JE Jannot**. 2012. Bycatch risk pools for the US West Coast Groundfish Fishery. *Ecological Economics* [link](https://www.sciencedirect.com/science/article/abs/pii/S0921800912001401)
+
+>12. Herrmann, D, A Ko, S Bhatt, **JE Jannot**, and SA Juliano. 2010. Geographic variation in size and oviposition depths of lubber grasshoppers (Romalea microptera) is associated with different soil conditions. *Annals of the Entomological Society of America* 103:227-235
+
+>11. **Jannot, JE** 2009. Life history plasticity and post-metamorphic fitness consequences of proximate cues of pond-drying on an aquatic insect. *Oecologia* 161:267-277
+
+>10. **Jannot, JE**, A Ko, L Skinner, D Herrmann, E Butzen, O Akman, SA Juliano.  2009. Density-dependent polyphenism leads to geographic variation in size among two populations of lubber grasshoppers.  *Ecological Entomology* 34:644-651
+
+>9. **Jannot, JE**, J Brinton, K Kocot, O Akman, SA Juliano. 2009. Ontogenetic mechanisms underlying a geographic size cline in a grasshopper (*Romalea microptera*). *Annals of the Entomological Society of America* 102: 467-475
+
+>8. **Jannot, JE**, O Akman, BL Kerans, K Carr.  2008. Using neural networks to detect patterns in inter-specific data: an example from net-spinning caddisflies. *Ecological Informatics* 3: 387-396
+
+>7. **Jannot, JE**, SA Wissinger, JR Lucas. 2008. Diet and pond-drying affect life history trade-offs in a caddisfly (Trichoptera: Limnephilidae).  *Biological Journal of the Linnean Society* 95: 495-504
+
+>6. Kruezer, A, J Walrath, MHirsh, D Pitynski, O Akman, **J Jannot**, SA Juliano. 2008. Immune function, body size, and parasite load in lubber grasshoppers. *Am. J. Undergrad. Res.* 7 (3): 25-30
+
+>5. Akman, O, J Gamage, **J Jannot**, S Juliano, A Thurman, D Whitman. 2007. A simple test for length-biased sampling. *JP Journal of Biostatistics* 1:189-195
+
+>4. **Jannot, JE**, E Bruneau, SA Wissinger. 2007. Effects of larval energetic resources on life history and adult allocation patterns in a caddisfly (Trichoptera: Phryganeidae). *Ecological Entomology* 32: 376-383
+
+>3. Kerans, BL, MF Dybdahl, MM Gangloff, **JE Jannot**. 2005. Potomopyrgus antipodarum:  distribution, density, and effects on native macroinvertebrate assemblages in the Greater Yellowstone Ecosystem.  *Journal of the North American Benthological Society* 24:123-138
+
+>2. **Jannot, JE** and BL Kerans.  2003. Body size, sexual size dimorphism, and Rensch’s rule in adult hydropsychid caddisflies (Trichoptera: Hydropsychidae). *Canadian Journal of Zoology* 81: 1956-1964
+
+>1. Wissinger, SA, WS Brown, **JE Jannot**. 2003. Caddisfly life histories and distributions along permanence gradients in high-elevation wetlands.  *Freshwater Biology* 48: 255-270
+
+<h3> Technical Reports </h3>
+For a complete list of all technical publications, see [NOAA's Institutional Repository](https://repository.library.noaa.gov/gsearch?fedora_terms1=Enter+keyword+or+phrase...&fedora_terms2=Enter+keyword+or+phrase...&fedora_terms3=Enter+keyword+or+phrase...&fedora_terms4=Enter+keyword+or+phrase...&fedora_terms5=&fedora_terms6=&fedora_terms7=&fedora_terms8=Enter+keyword+or+phrase...&fedora_terms9=&fedora_terms10=&fedora_terms11=Enter+keyword+or+phrase...&fedora_terms12=Jannot&edit-searchButtonAdvanced=Clicked&customMetadata=Select+one&customMetadataValue=Enter+keyword+or+phrase...&custom_fedora_term_dropdown_documentType_values=&custom_collection=&custom_fedora_term_dropdown_language_values=&custom_datepickerA=&custom_datepickerB=&customQueryBox=)
+
+* Gustafson R, KE Richerson, KA Somers, VJ Tuttle, **JE Jannot**. 2022. Information in Support of a Five-Year Status Review of Eulachon (*Thaleichthys pacificus*) Listed under the Endangered Species Act: Southern Distinct Population Segment. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-179. [link](https://doi.org/10.25923/p7mr-sk77)<br>
+<br>
+- **Jannot, JE**, KA Somers, VJ Tuttle, J Eibner, KE Richerson, JT McVeigh, JV Carretta, NC Young, J Freed. 2022. Marine Mammal Bycatch in U.S. West Coast Groundfish Fisheries, 2002-19. U.S. Department of Commerce, NOAA Technical Memorandum NMFS NWFSC-176. [link](https://doi.org/10.25923/h6gg-c316)<br>
+<br>
+- Richerson KE, **JE Jannot**, JT McVeigh, KA Somers, VJ Tuttle, S Wang. 2022. Observed and Esti-mated Bycatch of Green Sturgeon in 2002-19 U.S. West Coast Groundfish Fisheries. NOAA Tech-nical Memorandum NMFS NWFSC-178. [link](https://doi.org/10.25923/tkp7-mj29)<br>
+<br>
+- **Jannot, JE**, KE Richerson, KA Somers, VJ Tuttle, RS Shama, JT McVeigh. 2022. Pacific Halibut Bycatch in U.S. West Coast Groundfish Fisheries, 2002-20. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-173. [link](https://repository.library.noaa.gov/view/noaa/34438)<br>
+<br>
+- Gilman, E. et al. 2021. ACAP Guidelines on Fisheries Electronic Monitoring Systems. 10th Meeting of the Seabird Bycatch Working Group, ACAP, Hobart, AU. 17-19 August 2021.<br>
+<br>
+- Somers, K A, **JE Jannot**, KE Richerson, VJ Tuttle, NB Riley, JT McVeigh. 2022. Estimated Discard and Catch of Groundfish Species in the 2020 U.S. West Coast Fisheries. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-175. [link](https://repository.library.noaa.gov/view/noaa/35780)<br>
+<br>
+- **Jannot, JE**, A Wuest, TP Good, KA Somers, VJ Tuttle, KE Richerson, RS Shama, JT McVeigh. 2021. Seabird Bycatch in U.S. West Coast Fisheries, 2002-18. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-165. [link](https://repository.library.noaa.gov/view/noaa/28765)<br>
+<br>

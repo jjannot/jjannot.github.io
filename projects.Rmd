@@ -1,0 +1,45 @@
+---
+title: "Projects"
+image: images/projects.jpg
+links:
+  toc: true
+base_url: https://jjannot.github.io
+preview: images/projects.jpg
+output:
+  postcards::trestles
+site: 
+  distill::distill_website
+---
+
+<h2> Software </h2>
+
+- [`bycatch`](https://ericward-noaa.github.io/bycatch/) R package<br>
+This is a repository for applications of Bayesian bycatch models, using Stan for estimation. These models fit Bayesian GLMs (with or without time varying parameters, and with or without covariates) to estimate fleet-level bycatch rates. The primary applications of these models are protected species bycatch (e.g., ESA listed birds, marine mammals, sea turtles) in the groundfish fisheries off the west coast of the USA. Data compilation and analysis is done at the Northwest Fisheries Science Center (NWFSC) in Seattle. This is part of the [NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/).<br>
+
+<h2> Fisheries Management </h2>
+
+* 2020-2022 - I served on NOAA's National Bycatch Reduction Engineering Program.
+
+* 2018-2022 - I served on a number of seabird advisory and management bodies including: NOAA's National Seabird Program Strategic Implementation Team, USFWS Short-tailed Albatross Recovery Team, Agreement on the Conservation of Albatross and Petrels, and the North Pacific Albatross Work Group.
+
+* 2013-2022 - I was the lead scientist, in collaboration with the NOAA West Coast Regional Office, on the Pacific Fishery Management Council’s [Groundfish Endangered Species Workgroup](https://www.pcouncil.org/navigating-the-council/membership-groups-and-staff/advisory-groups/groundfish-endangered-species-workgroup/) from 2013-2022.  During this time I led the reporting of fisheries bycatch of 5 species listed on the U.S. Endangered Species Act that interact with fisheries off the U.S. West Coast: humpback whales, leatherback sea turtles, short-tailed albatross, green sturgeon, and eulachon smelt.
+
+* 2011-2022 - I was the lead scientist reporting on the annual Pacific halibut (*Hippoglossus stenolepis*) bycatch in fisheries off the U.S. West Coast.
+
+<h2> Technical Memoranda </h2>
+For a complete list of all technical publications, see [NOAA's Institutional Repository](https://repository.library.noaa.gov/gsearch?fedora_terms1=Enter+keyword+or+phrase...&fedora_terms2=Enter+keyword+or+phrase...&fedora_terms3=Enter+keyword+or+phrase...&fedora_terms4=Enter+keyword+or+phrase...&fedora_terms5=&fedora_terms6=&fedora_terms7=&fedora_terms8=Enter+keyword+or+phrase...&fedora_terms9=&fedora_terms10=&fedora_terms11=Enter+keyword+or+phrase...&fedora_terms12=Jannot&edit-searchButtonAdvanced=Clicked&customMetadata=Select+one&customMetadataValue=Enter+keyword+or+phrase...&custom_fedora_term_dropdown_documentType_values=&custom_collection=&custom_fedora_term_dropdown_language_values=&custom_datepickerA=&custom_datepickerB=&customQueryBox=)
+
+* Gustafson R, KE Richerson, KA Somers, VJ Tuttle, **JE Jannot**. 2022. Information in Support of a Five-Year Status Review of Eulachon (*Thaleichthys pacificus*) Listed under the Endangered Species Act: Southern Distinct Population Segment. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-179. [link](https://doi.org/10.25923/p7mr-sk77)<br>
+<br>
+- **Jannot, JE**, KA Somers, VJ Tuttle, J Eibner, KE Richerson, JT McVeigh, JV Carretta, NC Young, J Freed. 2022. Marine Mammal Bycatch in U.S. West Coast Groundfish Fisheries, 2002-19. U.S. Department of Commerce, NOAA Technical Memorandum NMFS NWFSC-176. [link](https://doi.org/10.25923/h6gg-c316)<br>
+<br>
+- Richerson KE, **JE Jannot**, JT McVeigh, KA Somers, VJ Tuttle, S Wang. 2022. Observed and Esti-mated Bycatch of Green Sturgeon in 2002-19 U.S. West Coast Groundfish Fisheries. NOAA Tech-nical Memorandum NMFS NWFSC-178. [link](https://doi.org/10.25923/tkp7-mj29)<br>
+<br>
+- **Jannot, JE**, KE Richerson, KA Somers, VJ Tuttle, RS Shama, JT McVeigh. 2022. Pacific Halibut Bycatch in U.S. West Coast Groundfish Fisheries, 2002-20. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-173. [link](https://repository.library.noaa.gov/view/noaa/34438)<br>
+<br>
+- Gilman, E. et al. 2021. ACAP Guidelines on Fisheries Electronic Monitoring Systems. 10th Meeting of the Seabird Bycatch Working Group, ACAP, Hobart, AU. 17-19 August 2021.<br>
+<br>
+- Somers, K A, **JE Jannot**, KE Richerson, VJ Tuttle, NB Riley, JT McVeigh. 2022. Estimated Discard and Catch of Groundfish Species in the 2020 U.S. West Coast Fisheries. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-175. [link](https://repository.library.noaa.gov/view/noaa/35780)<br>
+<br>
+- **Jannot, JE**, A Wuest, TP Good, KA Somers, VJ Tuttle, KE Richerson, RS Shama, JT McVeigh. 2021. Seabird Bycatch in U.S. West Coast Fisheries, 2002-18. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-165. [link](https://repository.library.noaa.gov/view/noaa/28765)<br>
+<br>
