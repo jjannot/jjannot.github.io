@@ -17,9 +17,9 @@ I'm a Supervisory Research Fish Biologist and data scientist (`r make_icon(icon 
 
 ## Current Role
 
-I manage the AFSC FMA Analytical Services Program, a team of fishery data analysts. I am accountable for managing the processes and people responsible for processing, modeling, analysis, and reporting of fishery data, mainly data collected at-sea by [fisheries observers](https://www.fisheries.noaa.gov/topic/fishery-observers) and [electronic monitoring systems](https://www.fisheries.noaa.gov/alaska/resources-fishing/electronic-monitoring-alaska).    
+I manage the AFSC FMA Analytical Services Program, a team of fishery data analysts. I am accountable for managing the processes and people responsible for modeling, analysis, and reporting of fishery data, mainly data collected at-sea by [fisheries observers](https://www.fisheries.noaa.gov/topic/fishery-observers) and [electronic monitoring systems](https://www.fisheries.noaa.gov/alaska/resources-fishing/electronic-monitoring-alaska).    
 
-The FMA Analytical Services team seeks to develop insights from large fishery data sets which help guide strategic opportunities for fishery managers. I work closely with leaders, scientists and managers at the ASFC, [NOAA Alaska Regional Office](https://www.fisheries.noaa.gov/about/alaska-regional-office), [North Pacific Fisheries Managment Council](https://www.npfmc.org/), and other agencies to support and implement high-quality, data-driven natural resource management decisions. The FMA Analytical Services team ensures data accuracy and consistent reporting by leveraging modern processes for automating data quality control and reproducible research. They use advanced data modeling, predictive modeling and analytical techniques to interpret key findings from fishery data which support fishery management outcomes.    
+The FMA Analytical Services team seeks to develop insights from large fishery data sets which help guide strategic opportunities for fishery managers. I work closely with leaders, scientists and managers at the ASFC, [NOAA Alaska Regional Office](https://www.fisheries.noaa.gov/about/alaska-regional-office), [North Pacific Fisheries Managment Council](https://www.npfmc.org/), and other agencies to support and implement high-quality, data-driven natural resource management decisions. The FMA Analytical Services team ensures data accuracy and consistent reporting by leveraging modern processes for automating data analysis and reproducible research. They use advanced data modeling, predictive modeling and analytical techniques to interpret key findings from fishery data which support fishery management outcomes.    
 
 ## Research
 
@@ -31,4 +31,4 @@ Prior to 2010, my research focused on ecological processes in freshwater ecosyst
 
 In my spare time, I am also an avid cyclist and banjo player.
 
-Random Fact About Me: I spent a whole summer living in [Beanpod Cabin](https://www.rmbl.org/field-station-info/housing/beanpod-cabin/) (built ca. 1929).
+Random Fact About Me: I spent a whole summer living in [Beanpod Cabin](https://www.rmbl.org/field-station-info/housing/beanpod-cabin/) (built ca. 1929; see picture on the left).
