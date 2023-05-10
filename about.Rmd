@@ -13,7 +13,21 @@ knitr::opts_chunk$set(echo = FALSE)
 source(file.path("R", "functions.R"))
 ```
 
-I'm a research biologist and data scientist (`r make_icon(icon = "fab fa-r-project")`) at the [Alaska Fisheries Science Center](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center) in the [Fishery Monitoring and Analysis Division (FMA)](https://www.fisheries.noaa.gov/about/fisheries-monitoring-and-analysis). The focus of my work since 2010 has been on marine species interactions with commercial fishing vessels, a.k.a., [bycatch](https://www.fisheries.noaa.gov/topic/bycatch). I currently am the Program lead for the FMA Analytical Services Program.
+I'm a Supervisory Research Biologist and data scientist (`r make_icon(icon = "fab fa-r-project")`) at the [Alaska Fisheries Science Center (AFSC)](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center) in the [Fishery Monitoring and Analysis Division (FMA)](https://www.fisheries.noaa.gov/about/fisheries-monitoring-and-analysis). 
+
+## Current Role
+
+I manage the AFSC FMA Analytical Services Program, a team of fishery data analysts. I am accountable for managing the processes and people responsible for accurate data collection, processing, modeling, analysis, and reporting of fishery data, mainly data collected at-sea by [fisheries observers](https://www.fisheries.noaa.gov/topic/fishery-observers) and [electronic monitoring systems](https://www.fisheries.noaa.gov/alaska/resources-fishing/electronic-monitoring-alaska).    
+
+The FMA Analytical Services team seeks to develop insights from large fishery data sets which help guide strategic opportunities for fishery managers. I work closely with leaders, scientists and managers at the ASFC, [NOAA Alaska Regional Office](https://www.fisheries.noaa.gov/about/alaska-regional-office), [North Pacific Fisheries Managment Council](https://www.npfmc.org/), and other agencies to support and implement high-quality, data-driven natural resource management decisions. The FMA Analytical Services team ensures data accuracy and consistent reporting by leveraging modern processes for automating data quality control and reproducible research. They use advanced data modeling, predictive modeling and analytical techniques to interpret key findings from fishery data which support fishery management outcomes.    
+
+## Research
+
+Since 2010, the focus of my research has been on marine species interactions with commercial fishing vessels, a.k.a., [bycatch](https://www.fisheries.noaa.gov/topic/bycatch).
+
+Prior to 2010, my research focused on ecological processes in freshwater ecosystems and life history plasticity in freshwater organisms.
+
+## Personal Interests
 
 In my spare time, I am also an avid cyclist and banjo player.
 

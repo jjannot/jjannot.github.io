@@ -35,12 +35,12 @@ div {text-align: center;}
 <!-- <br> -->
 
 <div>
-  <h3><b>Supervisory Research Biologist</b></h3>
-  <p><i>NOAA Fisheries<br>
-  Alaska Fisheries Science Center<br>
+  <h4><b>Supervisory Fish Biologist</b></h4>
+  <h5><i>Analytical Services Program Manager<br>
   Fisheries Monitoring and Analysis<br>
-  Analytical Services Program Manager<br>
-  Seattle, WA, USA</i></p>
+  Alaska Fisheries Science Center<br>
+  NOAA Fisheries<br>
+  Seattle, WA, USA</i></h5>
 </div>
 
 <!-- </div> -->
@@ -53,6 +53,9 @@ div {text-align: center;}
 <div class = "col-md-1">
 
 </div>
+
+
+
 <!-- </div> -->
 
 <!-- <br> -->
