@@ -35,9 +35,9 @@ div {text-align: center;}
 <!-- <br> -->
 
 <div>
-  <h4><b>Supervisory Fish Biologist</b></h4>
+  <h4><b>Supervisory Research Fish Biologist</b></h4>
   <h5><i>Analytical Services Program Manager<br>
-  Fisheries Monitoring and Analysis<br>
+  Fisheries Monitoring and Analysis Division<br>
   Alaska Fisheries Science Center<br>
   NOAA Fisheries<br>
   Seattle, WA, USA</i></h5>
