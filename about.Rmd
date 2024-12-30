@@ -1,6 +1,7 @@
 ---
 title: "About me"
-image: images/JEJatBeanPod.jpg
+image: 
+  - images/JJ_immersionsuit.jpg
 base_url: https://jjannot.github.io
 preview: images/JJ_immersionsuit.jpg
 output:
