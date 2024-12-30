@@ -36,6 +36,7 @@ div {text-align: center;}
 
 <div>
   <h4><b>Supervisory Research Fish Biologist</b></h4>
+  <h5><i>Deputy Director (acting)<br>
   <h5><i>Analytical Services Program Manager<br>
   Fisheries Monitoring and Analysis<br>
   Alaska Fisheries Science Center<br>
