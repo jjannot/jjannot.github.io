@@ -88,7 +88,7 @@ icon_link(
 >1. Wissinger, SA, WS Brown, **JE Jannot**. 2003. Caddisfly life histories and distributions along permanence gradients in high-elevation wetlands.  *Freshwater Biology* 48: 255-270
 
 <h3> Technical Reports </h3>
-For a complete list of all technical publications, see [NOAA's Institutional Repository](https://repository.library.noaa.gov/gsearch?fedora_terms1=Enter+keyword+or+phrase...&fedora_terms2=Enter+keyword+or+phrase...&fedora_terms3=Enter+keyword+or+phrase...&fedora_terms4=Enter+keyword+or+phrase...&fedora_terms5=&fedora_terms6=&fedora_terms7=&fedora_terms8=Enter+keyword+or+phrase...&fedora_terms9=&fedora_terms10=&fedora_terms11=Enter+keyword+or+phrase...&fedora_terms12=Jannot&edit-searchButtonAdvanced=Clicked&customMetadata=Select+one&customMetadataValue=Enter+keyword+or+phrase...&custom_fedora_term_dropdown_documentType_values=&custom_collection=&custom_fedora_term_dropdown_language_values=&custom_datepickerA=&custom_datepickerB=&customQueryBox=)
+For a complete list of all technical publications, see [NOAA's Institutional Repository](https://repository.library.noaa.gov/) (search for "Jannot")
 
 * Gustafson R, KE Richerson, KA Somers, VJ Tuttle, **JE Jannot**. 2022. Information in Support of a Five-Year Status Review of Eulachon (*Thaleichthys pacificus*) Listed under the Endangered Species Act: Southern Distinct Population Segment. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-179. [link](https://doi.org/10.25923/p7mr-sk77)<br>
 <br>
