@@ -7,6 +7,11 @@ output:
   postcards::trestles
 site: distill::distill_website
 ---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source(file.path("R", "functions.R"))
+```
+
 <!-- title = 'Thank-you-word-cloud_Ashashyou_Wikipedia_CCBY-SA4.0' -->
 The main inspiration for this website comes from [John Paul Helveston](https://www.jhelvy.com/). Not only did John's site come in very handy as a reasonable template for this site; John also provides some really nifty `r icon_link( icon = "fab fa-r-project", text = "functions", url = "https://github.com/jhelvy/jhelvy.com")` that weave together R, CSS, and HTML, [useful tips](https://www.jhelvy.com/posts/2021-03-25-customizing-distill-with-htmltools-and-css/) on how to use them and is generous enough to share them under CC BY-SA 4.0.
 
