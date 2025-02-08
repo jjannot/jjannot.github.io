@@ -18,6 +18,14 @@ This is a repository for applications of Bayesian bycatch models, using Stan for
 
 <h2> Fisheries Management </h2>
 
+* 2023-2025 - Lead the implementation of new mechanisms for monitoring trawl pollock catcher vessels in the Bering Sea and Gulf of Alaska, in collaboration with Alaska Regional Office,  the fishing industry, and [NPFMC](https://www.npfmc.org/).
+
+* 2023-present - Annual Deployment Plan - Lead the development of cost-effective and scientifically sound method for deploying fisheries observers and electronic monitoring in the groundfish and Pacific halibut fisheries off the coast of Alaska, USA ([link](https://www.fisheries.noaa.gov/s3//2024-11/Final_2025_ADP.pdf)), in collaboration with the Alaska Regional Office, the fishing industry, and [NPFMC](https://www.npfmc.org/). 
+
+* 2023-present - North Pacific Observer Program Annual Reporting - Lead the report on the performance of fishery observer and electronic monitoring deployment into the groundfish and Pacific halibut fisheries off the coast of Alaska, USA ([link](https://repository.library.noaa.gov/view/noaa/66036)), in collaboration with the Alaska Regional Office, the fishing industry, and [NPFMC](https://www.npfmc.org/).
+
+* 2023-2024 - Lead development of new technology for fisheries observers to document potential fisheries regulatory violations to the NOAA Office of Law Enforcement.
+
 * 2020-2022 - NOAA's National Bycatch Reduction Engineering Program.
 
 * 2018-2022 - Seabird advisory and management bodies including: NOAA's National Seabird Program Strategic Implementation Team, USFWS Short-tailed Albatross Recovery Team, Agreement on the Conservation of Albatross and Petrels, and the North Pacific Albatross Work Group.
