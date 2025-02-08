@@ -37,6 +37,8 @@ icon_link(
 </br>
 <h3> Journal Articles</h3> (peer-reviewed)
 
+>26. **Jannot, JE**, TP Good, VJ Tuttle. 2025. Seabird cable strike mortalities in the US West Coast At-sea Hake Fishery. *in prep. for Animal Conservation*
+
 >25. Good, T, **JE Jannot**, KA Somers, EJ Ward. 2022. Using Bayesian time series models to estimate bycatch of an endangered albatross. *Fisheries Research* [link](https://www.sciencedirect.com/science/article/abs/pii/S0165783622002697)
 
 >24. **Jannot, JE**, EJ Ward, KA Somers, BE Feist, TP Good, D Lawson, JV Carretta. 2021. Bayesian time-series analyses for estimating marine mammal bycatch: humpback whale entanglements in U.S. west coast fisheries. Special invited issue of *Frontiers in Marine Science: Assessment Approaches to Support Bycatch Management for Marine Mammals*, (eds., T Francis, J Moore, AE Punt, R Reeves). [link](https://www.frontiersin.org/articles/10.3389/fmars.2021.775187/full)
