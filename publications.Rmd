@@ -39,7 +39,7 @@ icon_link(
 
 >27. **Jannot, JE**, TP Good, VJ Tuttle. 2025. Seabird cable strike mortalities in the US West Coast At-sea Hake Fishery. *in prep. for Animal Conservation*
 
->26. Gredzens, C, A Kingham, **JE Jannot**. 2025. Complimenting electronic monitoring in the Alaska walleye pollock (*Gadus chalcogrammus*) inshore trawl fishery with shore-based observer data. *in prep. for Fisheries Research*
+>26. Gredzens, C, A Kingham, **JE Jannot**. 2025. Complimenting electronic monitoring in the Alaska walleye pollock (*Gadus chalcogrammus*) inshore trawl fishery with shore-based observer data. *in review Fisheries Management and Ecology*
 
 >25. Good, T, **JE Jannot**, KA Somers, EJ Ward. 2022. Using Bayesian time series models to estimate bycatch of an endangered albatross. *Fisheries Research* [link](https://www.sciencedirect.com/science/article/abs/pii/S0165783622002697)
 
