@@ -94,6 +94,8 @@ icon_link(
 <h3> Technical Reports </h3>
 For a complete list of all technical publications, see [NOAA's Institutional Repository](https://repository.library.noaa.gov/) (search for "Jannot")
 
+* Van Horn, C, A Kingham, **JE Jannot**. 2025. A summary of post-cruise data loss in the North Pacific Observer Program 2014-2023. *in prep. NOAA Technical Memorandum*.<br>
+<br>
 * Gustafson R, KE Richerson, KA Somers, VJ Tuttle, **JE Jannot**. 2022. Information in Support of a Five-Year Status Review of Eulachon (*Thaleichthys pacificus*) Listed under the Endangered Species Act: Southern Distinct Population Segment. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-179. [link](https://doi.org/10.25923/p7mr-sk77)<br>
 <br>
 - **Jannot, JE**, KA Somers, VJ Tuttle, J Eibner, KE Richerson, JT McVeigh, JV Carretta, NC Young, J Freed. 2022. Marine Mammal Bycatch in U.S. West Coast Groundfish Fisheries, 2002-19. U.S. Department of Commerce, NOAA Technical Memorandum NMFS NWFSC-176. [link](https://doi.org/10.25923/h6gg-c316)<br>
