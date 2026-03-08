@@ -37,9 +37,9 @@ icon_link(
 </br>
 <h3> Journal Articles</h3> (peer-reviewed)
 
->27. **Jannot, JE**, TP Good, VJ Tuttle. 2025. Seabird cable strike mortalities in the US West Coast At-sea Hake Fishery. *in prep. for Animal Conservation*
+>27. **Jannot, JE**, TP Good, VJ Tuttle. 2025. Seabird cable strike mortalities in the US West Coast At-sea Hake Fishery. *in prep. for Endangered Species Research*
 
->26. Gredzens, C, A Kingham, **JE Jannot**. 2025. Complimenting electronic monitoring in the Alaska walleye pollock (*Gadus chalcogrammus*) inshore trawl fishery with shore-based observer data. *in review Fisheries Management and Ecology*
+>26. Gredzens, C, A Kingham, **JE Jannot**. 2025.  Evaluating and advancing the use of shore-based observers for scientific sampling and catch verification in high-volume fisheries. *Fisheries Management and Ecology* [link](https://onlinelibrary.wiley.com/doi/epdf/10.1111/fme.70039)
 
 >25. Good, T, **JE Jannot**, KA Somers, EJ Ward. 2022. Using Bayesian time series models to estimate bycatch of an endangered albatross. *Fisheries Research* [link](https://www.sciencedirect.com/science/article/abs/pii/S0165783622002697)
 
@@ -94,7 +94,11 @@ icon_link(
 <h3> Technical Reports </h3>
 For a complete list of all technical publications, see [NOAA's Institutional Repository](https://repository.library.noaa.gov/) (search for "Jannot")
 
-* Van Horn, C, A Kingham, **JE Jannot**. 2025. A summary of post-cruise data loss in the North Pacific Observer Program 2014-2023. *in prep. NOAA Technical Memorandum*.<br>
+* Alaska Fisheries Science Center and Alaska Regional Office. 2025. North Pacific Observer Program 2024 Annual Report. AFSC Processed Rep. 2025-10, 139 p. Alaska Fish. Sci. Cent., NOAA, Natl. Mar. Fish. Serv., 7600 Sand Point Way NE, Seattle WA 98115. [link](https://repository.library.noaa.gov/view/noaa/71182)<br>
+<br>
+* Brower, A. et al. 2025. Human-caused Mortality and Injury of NMFS-managed Alaska Marine Mammal Stocks, 2019-2023. AFSC Processed Rep. 2025-13, 9 p. + Supporting files. Alaska Fish. Sci. Cent., NOAA, Natl. Mar. Fish. Serv., 7600 Sand Point Way NE, Seattle WA 98115. [link](https://repository.library.noaa.gov/view/noaa/71570)<br>
+<br>
+* Van Horn, C, A Kingham, **JE Jannot**. 2025. A summary of post-cruise data loss in the North Pacific Observer Program 2014-2023. NOAA Technical Memorandum NMFS-AFSC-500. [link](https://repository.library.noaa.gov/view/noaa/71155)<br>
 <br>
 * Gustafson R, KE Richerson, KA Somers, VJ Tuttle, **JE Jannot**. 2022. Information in Support of a Five-Year Status Review of Eulachon (*Thaleichthys pacificus*) Listed under the Endangered Species Act: Southern Distinct Population Segment. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-179. [link](https://doi.org/10.25923/p7mr-sk77)<br>
 <br>
